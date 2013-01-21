@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : @chris.lindgren
+tagline: ../people|things|software|code/
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Chris Lindgren
+  email : lindg250@umn.edu
+  github : lingeringcode
+  twitter : @lndgrn
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://blog.clindgrencv.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -37,18 +37,18 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-  # CNAME (http://yourcustomdomain.com)
+  # CNAME (http://blog.clindgrencv.com)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Pages (http://username.github.com)
+  # GitHub Pages (http://lingeringcode.github.com)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Project Pages (http://username.github.com/project-name)
+  # GitHub Project Pages (http://lingeringcode.github.com/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.com/project-name
+  #  REQUIRED! Set BASE_PATH to: http://lingeringcode.github.com/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
