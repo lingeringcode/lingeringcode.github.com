@@ -12,7 +12,7 @@ tags:
   - source integration
   - wikipedia
 ---
-**Aaron Swartz’s Wikipedia Entry: 03:07, 12 January 2013‎ – \_\_\_|\\_\_\_|\_**
+**Aaron Swartz’s Wikipedia Entry: 03:07, 12 January 2013‎ – \_\_\_\_\_\_\_\_**
 
 After programmer/activist <a href="http://en.wikipedia.org/wiki/Aaron_Swartz" target="_blank">Aaron Swartz’s</a> suicide on January 11th, one might expect that the death of a person who accomplished so much will instigate a flux of wikipedia activity. And it did. Since the writing of this post, people have written/edited/revised 363 entries since the timestamp referenced in the title: 03:07, 12 January 2013‎.
 
@@ -22,17 +22,17 @@ In bytes, Swartz’s entry went from 9,315 to 31,883 bytes in this short span of
 
 ## //before
 
-<a href="http://en.wikipedia.org/w/index.php?title=Aaron_Swartz&#038;oldid=532640835" target="_blank"><img src="http://www.clindgrencv.com/wp-content/uploads/2013/01/aswartz-before-1024x522.png" alt="aswartz-before" width="600" height="305" class="aligncenter size-large wp-image-860" /></a>
+<a href="http://en.wikipedia.org/w/index.php?title=Aaron_Swartz&#038;oldid=532640835" target="_blank"><img src="../assets/img/aswartz-before.png" alt="aswartz-before" width="600" height="305" /></a>
 
 ## //after
 
-<a href="http://en.wikipedia.org/wiki/Aaron_Swartz" title="Present wikipedia entry for a.swartz" target="_blank"><img src="http://www.clindgrencv.com/wp-content/uploads/2013/01/aswartz-after-1024x525.png" alt="aswartz-after" width="600" height="307" class="aligncenter size-large wp-image-859" /></a>
+<a href="http://en.wikipedia.org/wiki/Aaron_Swartz" title="Present wikipedia entry for a.swartz" target="_blank"><img src="../assets/img/aswartz-after.png" alt="aswartz-after" width="600" height="307" class="aligncenter size-large wp-image-859" /></a>
 
 
 
 Immediately evident is the more comprehensive additions to the introduction. The former includes 4 sentences on 3 lines. This brevity seems to highlight his alleged crime of illegally downloading academic publications from JSTOR, rather than his activist and software development projects and philosophies. The latter’s length and content are much more characteristic of a proper introduction, providing a synopsis of not just his major accomplishments and deeds, but setting up some of the philosophies driving his desire and actions to liberate information.
 
-“Information is power,” wrote Swartz in his __<a href="http://pastebin.com/cefxMVAy" target="_blank">Guerilla Open Access Manifesto</a>__, and he knew that many agree that knowledge should be free and open. As a scholar of rhetoric and writing, I also agree, **but only to an extent.** As rhetors, open access is still not enough, because a person must still integrate into their own ideas. For me, databases with open access to rich and robust ideas provide people with the means to enrich their own ideas and writing. A central figure in computing and software, Alan Kay once wrote: 
+“Information is power,” wrote Swartz in his __<a href="http://pastebin.com/cefxMVAy" target="_blank">Guerilla Open Access Manifesto</a>__, and he knew that many agree that knowledge should be free and open. **As a scholar of rhetoric and writing, I also agree, but only to an extent.** As rhetors, open access is still not enough, because a person must still integrate into their own ideas. For me, databases with open access to rich and robust ideas provide people with the means to enrich their own ideas and writing. A central figure in computing and software, Alan Kay once wrote: 
 
 > The weakness of databases is that they let you retrieve facts, while the strength of our culture over the past several hundred years has been our ability to take on multiple points of view. It should be possible for every kid everywhere to test what he or she is being told either against arguments of others or by appeal to computer simulation. The question is: will society nurture that potential or suppress it? (qtd. in Kasch) 
 
