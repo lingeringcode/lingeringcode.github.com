@@ -1,5 +1,5 @@
 ---
-title: Composition Teachers Make for Bad Compilers
+title: Annotation: Haas et al (2011) - "Young peoples everyday literacies"
 author: clindgren
 layout: post
 tags: [ composition, pedagogy, proceduracy ]
