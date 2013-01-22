@@ -2,11 +2,7 @@
 title: Composition Teachers Make for Bad Compilers
 author: clindgren
 layout: post
-permalink: /2012/02/teachers-make-for-bad-compilers/
-categories:
-  - composition
-  - pedagogy
-  - proceduracy
+tags: [ composition, pedagogy, proceduracy ]
 ---
 
 Haas, C., Takayoshi, P., Carr, B., Hudson, K., & Pollock, R. (2011). Young people’s everyday literacies: The language features of instant messaging. *Research in the Teaching of English, 45*, 378-404.
