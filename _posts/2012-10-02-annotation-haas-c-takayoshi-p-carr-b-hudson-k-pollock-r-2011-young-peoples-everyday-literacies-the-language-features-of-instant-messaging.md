@@ -2,6 +2,7 @@
 title: Annotation--Haas et al, Young peoples everyday literacies
 author: clindgren
 layout: post
+permalink: /2012/02/annotation-haas-c-takayoshi-p-carr-b-hudson-k-pollock-r-2011-young-peoples-everyday-literacies-the-language-features-of-instant-messaging/
 tags: [ composition, pedagogy, proceduracy ]
 ---
 
