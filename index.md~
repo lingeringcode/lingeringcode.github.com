@@ -1,0 +1,13 @@
+---
+layout: page
+title: @lndgrn
+tagline: ../people|things|software|code/
+---
+{% include JB/setup %}
+
+## Sample Posts
+
+[please fork](http://github.com/plusjade/jekyll-bootstrap)!
+We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+
+
