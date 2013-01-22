@@ -5,9 +5,9 @@ tagline: ../people|things|software|code/
 ---
 {% include JB/setup %}
 
-## Sample Posts
+## Posts
 
-[please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}
 
 
