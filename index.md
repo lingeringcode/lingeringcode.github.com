@@ -14,12 +14,12 @@ tagline: ../people|things|software|code/
   </ul>
 </div>
 
-<div id="info_section">
-	<div class="section_title">Info</div>
-		<ul class="items">
-			<li><span class="bullet">Info:</span> <a href="/about.html">About</a></li>
-			<li><span class="bullet">Info:</span> <a href="/writing.html">Curriculum Vitae</a> <span class="bullet">[PDF]</span></li>
-			<li><span class="bullet">Info:</span> <a href="/portfolio.html">Blogroll</a></li>
-			<li><span class="bullet">Info:</span> <a href="/media/txt/cv.pdf">Curriculum Vitae</a> <span class="bullet">[PDF]</span></li>
-			</ul>
+<div id="home">
+	<h1>Links Back to Site</h1>
+	<ul class="posts">
+		<li><span class="bullet">>></span> <a href="http://clingrencv.com/about.html">About</a></li>
+		<li><span class="bullet">>></span> <a href="http://clingrencv.com/writing.html">Writing</a> <span class="bullet">[PDF]</span></li>
+		<li><span class="bullet">>></span> <a href="http://clingrencv.com/portfolio.html">Blogroll</a></li>
+		<li><span class="bullet">>></span> <a href="/media/txt/cv.pdf">Curriculum Vitae</a> <span class="bullet">[PDF]</span></li>
+	</ul>
 </div>
