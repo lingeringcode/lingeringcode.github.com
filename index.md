@@ -17,9 +17,9 @@ tagline: ../people|things|software|code/
 <div id="home">
 	<h1>Links Back to Main Site</h1>
 	<ul class="posts">
-		<li><span class="bullet">>></span> <a href="http://clingrencv.com/about.html">About</a></li>
-		<li><span class="bullet">>></span> <a href="http://clingrencv.com/writing.html">Writing</a> </li>
-		<li><span class="bullet">>></span> <a href="http://clingrencv.com/portfolio.html">Portfolio</a></li>
-		<li><span class="bullet">>></span> <a href="/media/txt/cv.pdf">Curriculum Vitae</a> <span class="bullet">[PDF]</span></li>
+		<li><span class="bullet">>></span> <a href="http://clindgrencv.com/about.html">About</a></li>
+		<li><span class="bullet">>></span> <a href="http://clindgrencv.com/writing.html">Writing</a> </li>
+		<li><span class="bullet">>></span> <a href="http://clindgrencv.com/portfolio.html">Portfolio</a></li>
+		<li><span class="bullet">>></span> <a href="/assets/txt/clindgren-cv.pdf">Curriculum Vitae</a> <span class="bullet">[PDF]</span></li>
 	</ul>
 </div>

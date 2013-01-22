@@ -19,7 +19,7 @@ tagline: ../people|things|software|code/
 	<ul class="posts">
 		<li><span class="bullet">>></span> <a href="http://clingrencv.com/about.html">About</a></li>
 		<li><span class="bullet">>></span> <a href="http://clingrencv.com/writing.html">Writing</a> </li>
-		<li><span class="bullet">>></span> <a href="http://clingrencv.com/portfolio.html">Blogroll</a></li>
+		<li><span class="bullet">>></span> <a href="http://clingrencv.com/portfolio.html">Portfolio</a></li>
 		<li><span class="bullet">>></span> <a href="/media/txt/cv.pdf">Curriculum Vitae</a> <span class="bullet">[PDF]</span></li>
 	</ul>
 </div>
