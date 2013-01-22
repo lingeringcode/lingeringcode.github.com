@@ -1,197 +1,145 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
+@charset "UTF-8";
 
-/* Global Reset */
+/* Common */
 
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
-html, body {
-  height: 100%;
+/* Fonts */
+
+@font-face {
+    font-family: "Meiryo","Hiragino Kaku Gothic Pro","MS P Gothic","Osaka",Helvetica,sans-serif;
+    font-weight: normal;
+    font-style: normal;
 }
 
-body {
-  background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
-  text-align: center;
-}
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
-}
+em { font-style: italic; }
 
-h1 {
-  margin-bottom: 1em;
+code {
+	font-family: "SourceCodeProRegular";
+	font-size: 18px;
 }
 
 p {
-  margin: 1em 0;
+	width: 600px;
+	line-height: 120%;
 }
 
-a {
-  color: #00a;
+html, body { height: 100%; }
+
+a:link, a:visited { text-decoration: none; }
+
+body {
+	margin: 0;
+	padding: 0;
+	color: black;
+	background: white
 }
 
-a:hover {
-  color: black;
+#container {
+	width: 50em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-a:visited {
-  color: #a0a;
+#title_string {
+	font-family: 'Molengo', Georgia, Times, serif;
+	font-weight: bold;
+	font-size: 46px;
 }
 
-table {
-  font-size: inherit;
-  font: 100%;
+#nav {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	line-height: 46px;
 }
 
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
+#footer {
+	font-size: 80%;
+	color: #666;
+	border-top: 4px solid;
+	margin-top: 2em;
 }
 
-  ul.posts li {
-    line-height: 1.75em;
-  }
-
-  ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-  }
-
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-.site {
-  font-size: 110%;
-  text-align: justify;
-  width: 40em;
-  margin: 3em auto 2em auto;
-  line-height: 1.5em;
+#footer img {
+	float: left;
+	padding-right: 10px;
+	margin-bottom: 100px;
 }
 
-.title {
-  color: #a00;
-  font-weight: bold;
-  margin-bottom: 2em;
+blockquote {
+	margin: 40px;
 }
 
-  .site .title a {
-    color: #a00;
-    text-decoration: none;
-  }
+/* Home */
 
-  .site .title a:hover {
-    color: black;
-  }
+a:link {color:#000000;}
+a:visited {color:#000000;}
+a:hover {color:#000000;}
+a:active {color:#000000;}
 
-  .site .title a.extra {
-    color: #aaa;
-    text-decoration: none;
-    margin-left: 1em;
-  }
-
-  .site .title a.extra:hover {
-    color: black;
-  }
-
-  .site .meta {
-    color: #aaa;
-  }
-
-  .site .footer {
-    font-size: 80%;
-    color: #666;
-    border-top: 4px solid #eee;
-    margin-top: 2em;
-    overflow: hidden;
-  }
-
-    .site .footer .contact {
-      float: left;
-      margin-right: 3em;
-    }
-
-      .site .footer .contact a {
-        color: #8085C1;
-      }
-
-    .site .footer .rss {
-      margin-top: 1.1em;
-      margin-right: -.2em;
-      float: right;
-    }
-
-      .site .footer .rss img {
-        border: 0;
-      }
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-#post {
-
+.section_title {
+	font-weight: bold;
+	font-family: 'Molengo', Georgia, Times, serif;
+	font-size: 40px;
+	line-height: 200%;
 }
 
-  /* standard */
-
-  #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    padding: 0 .4em;
-  }
-
-  #post ul,
-  #post ol {
-    margin-left: 1.35em;
-  }
-
-  #post code {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    font-size: 85%;
-    padding: 0 .2em;
-  }
-
-    #post pre code {
-      border: none;
-    }
-
-  /* terminal */
-
-  #post pre.terminal {
-    border: 1px solid black;
-    background-color: #333;
-    color: white;
-  }
-
-  #post pre.terminal code {
-    background-color: #333;
-  }
-
-#related {
-  margin-top: 2em;
+ul {
+	list-style-type: none;
 }
 
-  #related h2 {
-    margin-bottom: 1em;
-  }
+.items {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	font-size: 21px;
+}
+
+.bullet {
+	font-size: 16px;
+	color: grey;
+}
+
+.new {
+	font-size: 16px;
+	color: red;
+}
+
+.sc {
+	  font-family: "Meiryo";
+	  font-size: 21px;
+}
+
+.sidenote {
+	  position: absolute;
+	  margin-right: -150px;
+}
+
+/* Posts */
+
+#post .page_title {
+	font-weight: bold;
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	line-height: 120%;
+}
+
+#post p {
+	font-family: "Meiryo", Georgia, serif;
+	font-size: 21px;
+	margin: 1em 0;
+}
+
+#post li {
+	font-family: "Meiryo", Georgia, serif;
+	font-size: 21px;
+	margin: 1em 0;
+}
+
+#post p a:link {color:#666666;}
+#post p a:visited {color:#999999;}
+
+#post sup {
+	font-size: 14px;
+}
