@@ -1,5 +1,5 @@
 ---
-title: Negropontism: Rhetoric that inhibits proceduracy
+title: Negropontisms and Rhetoric that inhibits proceduracy
 author: clindgren
 layout: post
 permalink: /2011/12/negropontism-rhetoric-that-inhibits-proceduracy/
@@ -9,7 +9,7 @@ tags:
   - pedagogy
 ---
 
-**Negropontism: Rhetoric that inhibits proceduracy**
+**Negropontisms and Rhetoric that inhibits proceduracy**
 
 Negroponte's rhetoric has always called upon his work with Papert in
 Senegal, as the go-to source for equating the naturalness of a child
