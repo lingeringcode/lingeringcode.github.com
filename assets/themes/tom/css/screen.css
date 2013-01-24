@@ -60,6 +60,7 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  text-indent: -23%;
 }
 
   ul.posts li {
@@ -162,7 +163,7 @@ ul.posts {
 
   #post ul,
   #post ol {
-    margin-left: 1.35em;
+    margin-left: 23%;
   }
 
   #post code {
