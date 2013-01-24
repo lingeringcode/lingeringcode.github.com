@@ -30,7 +30,7 @@ educators throughout the film. (NOTE: This particular topic will be
 discussed on a greater scale in a collaborative chapter in *Writing
 Posthumanism Writing*)
 
-[youtube http://www.youtube.com/watch?v=cO-VNhgZLDw 604 364]
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/watch?v=cO-VNhgZLDw"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/watch?v=cO-VNhgZLDw" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
 If you watched the video, you will also see the children working with
 the activities that our Sugar team have deemed as being more popular,
