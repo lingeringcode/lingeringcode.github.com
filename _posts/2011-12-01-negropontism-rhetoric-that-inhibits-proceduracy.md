@@ -1,9 +1,12 @@
 ---
-author: clindgren
 title: Negropontism: Rhetoric that inhibits proceduracy
+author: clindgren
 layout: post
 permalink: /2011/12/negropontism-rhetoric-that-inhibits-proceduracy/
-tags: pedagogy, proceduracy
+tags:
+  - proceduracy
+  - rhetoric
+  - pedagogy
 ---
 
 **Negropontism: Rhetoric that inhibits proceduracy**
