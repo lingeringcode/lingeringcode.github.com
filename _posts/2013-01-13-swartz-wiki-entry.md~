@@ -22,11 +22,11 @@ In bytes, Swartz’s entry went from 9,315 to 31,883 bytes in this short span of
 
 ## //before
 
-<a href="http://en.wikipedia.org/w/index.php?title=Aaron_Swartz&#038;oldid=532640835" target="_blank"><img src="../assets/img/aswartz-before.png" alt="aswartz-before" width="600" height="305" /></a>
+![Alt swartz's wiki page before his death](/assets/img/aswartz-before.png)
 
 ## //after
 
-<a href="http://en.wikipedia.org/wiki/Aaron_Swartz" title="Present wikipedia entry for a.swartz" target="_blank"><img src="../assets/img/aswartz-after.png" alt="aswartz-after" width="600" height="307" class="aligncenter size-large wp-image-859" /></a>
+![Alt swartz's wiki page after his death](/assets/img/aswartz-after.png)
 
 
 
@@ -40,11 +40,8 @@ Kay’s questioning of the nurturing or suppression of this vision connects back
 
 A good example of this process can be found on Swartz’s wiki entry page, which now includes a very interesting addition at 3:07am on January 12, 2013. The following screen capture shows the first inclusion of Swartz’s death at the aforementioned time that is also seen in the above “before” screen capture. This is what readers see on the front-end. The following screen capture shows Wikipedia’s back-end, where the value of fact-checking and verification that seems all-too-rare in today’s world of news, was practiced in this context:
 
-<div id="attachment_868" class="wp-caption aligncenter" style="width: 810px">
-  <a href="../assets/img/aswartz-potentialVandalism.png"><img src="../assets/img/aswartz-potentialVandalism.png" alt="Note the bottom (first) entry that indicates the inclusion of Swartz&#039;s death at 3:07am, which is then removed." width="800" class="size-large wp-image-868" /></a> <p class="wp-caption-text">
-    Note the bottom (first) entry that indicates the inclusion of Swartz’s death at 3:07am, which is then removed.
-  </p>
-</div>
+![Alt swartz's wiki page after his death](/assets/img/aswartz-potentialVandalism.png)
+Note the bottom (first) entry that indicates the inclusion of Swartz’s death at 3:07am, which is then removed.
 
 After the “anonymous” user’s post was removed, due to suspected vandalism,” the user claimed that he was Swartz’s uncle. It was reinstated but then removed again by another person, who also wrote back, “Actually, I think the warning above is a bit harsh. If you’re not a prankster, please accept Wikipedia’s apology and the sympathy of Aaron’s many friends. But, clearly, this is the sort of thing for which reliable sourcing is really desirable. MarkBernstein (talk) 05:21, 12 January 2013 (UTC)” ([<a href="http://en.wikipedia.org/wiki/User_talk:204.10.172.180" target="_blank">wiki entry revision</a>]). Whether or not this was, in fact, Swartz’s uncle, this small example tells a small tale about the types of interactions that occur on a grand scale everyday on sites such as Wikipedia.
 
