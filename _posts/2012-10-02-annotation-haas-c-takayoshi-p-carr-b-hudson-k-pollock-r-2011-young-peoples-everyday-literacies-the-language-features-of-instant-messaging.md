@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annotation--Haas, C., Takayoshi, P., Carr, B., Hudson, K., & Pollock, R. (2011). Young people's everyday literacies: The language features of instant messaging"
+title: Annotation&#045;&#045;Haas, C., Takayoshi, P., Carr, B., Hudson, K., & Pollock, R. (2011). Young people's everyday literacies&#058; The language features of instant messaging"
 tags:
 - annotation
 - writing
