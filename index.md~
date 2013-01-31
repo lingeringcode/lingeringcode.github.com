@@ -7,7 +7,7 @@ tagline: ../people|things|software|code/
 
 <div id="home">
   <h1>Blog Posts</h1>
-  <ul class="hp">
+  <ul>
     {% for post in site.posts limit: 15 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
@@ -16,7 +16,7 @@ tagline: ../people|things|software|code/
 
 <div id="home">
 	<h1>Links Back to Main Site</h1>
-	<ul class="hp">
+	<ul>
 		<li><span class="bullet">>></span> <a href="http://clindgrencv.com/about.html">About</a></li>
 		<li><span class="bullet">>></span> <a href="http://clindgrencv.com/writing.html">Writing</a> </li>
 		<li><span class="bullet">>></span> <a href="http://clindgrencv.com/portfolio.html">Portfolio</a></li>
