@@ -29,8 +29,4 @@ Four SBS Techniques:
 
 # Wanting More
 
-How is an audiences resiliancy atennuated by the sound-bite sabotage?
-
-I'd like a future of writers who write with both data and metadata vs. *just* data. Will this help
-
-applied mathematics, data mining, and rhetoric engaged throughout this process
+How is an audiences resiliancy attenuated by the sound-bite sabotage?
