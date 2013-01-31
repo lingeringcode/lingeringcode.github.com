@@ -60,17 +60,17 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+ul.hp {
   list-style-type: none;
   margin-bottom: 2em;
   text-indent: -23%;
 }
 
-  ul.posts li {
+  ul.hp li {
     line-height: 1.75em;
   }
 
-  ul.posts span {
+  ul.hp span {
     color: #aaa;
     font-family: Orienta;
     font-size: 80%;
@@ -166,7 +166,7 @@ ul.posts {
 
   #post ul,
   #post ol {
-    margin-left: 23%;
+    margin-left: 10%;
   }
 
   #post code {

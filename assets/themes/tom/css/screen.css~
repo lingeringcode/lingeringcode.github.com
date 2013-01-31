@@ -19,7 +19,7 @@ html, body {
 
 body {
   background-color: white;
-  background-image: url('http://blog.clindgrencv.com/assets/themes/tom/images/swtc-bck.jpeg');
+  /*background-image: url('http://blog.clindgrencv.com/assets/themes/tom/images/swtc-bck.jpeg');*/
   font: 13.34px Orienta, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -60,17 +60,17 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+ul.hp {
   list-style-type: none;
   margin-bottom: 2em;
   text-indent: -23%;
 }
 
-  ul.posts li {
+  ul.hp li {
     line-height: 1.75em;
   }
 
-  ul.posts span {
+  ul.hp span {
     color: #aaa;
     font-family: Orienta;
     font-size: 80%;
