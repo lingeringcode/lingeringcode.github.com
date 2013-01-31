@@ -17,3 +17,20 @@ The introduction provides numerous contemporary political examples that show rea
 With this example, they discuss the dualism of left-right politics, fighting for position with their own sound-bite strategies. A leftist view of utopian social justice is met with a rightist "unfounded faith" in "sound-bite bugaboos" that serve as null pointers to feed the flames in each of their coressponding discourse communities. An analysis of sound bites, as the authors argue, illuminate the ways in which the American public are mislead, misinformed, and now routinely miseducated vis-a-vis such "branded information" that is actually "ahistorical" but any alternatives are sold as "un-American" (14). 
 
 To alleviate the power of these sound bites, which get their power from their ability to control the flow and frequency of messages dispersed across networks -- *an insight that McLuhan discussed regularly in the tribal drum tradition* -- the authors call for more criticalness and insight into "these complex and contingent dynamics" (22). If done properly, "we" (as in scholars and the public?) can better understand the nature and operation of politics in our society, as well as "the impact of sound-bite sabotage on public discourse and civic education" (12).
+
+# Chp 2. Roots of Sound-Bite Sabotage
+
+Four SBS Techniques:
+
+1. reduce the visibility of the speaker (writer, designer, agent);
+2. erase any sense of agency in the consumer of branded information beyond purchasing;
+3. obscure the competing interests at stake; and
+4. reduce our capacity to hold powerful agents accountable. (31)
+
+# Wanting More
+
+How is an audiences resiliancy atennuated by the sound-bite sabotage?
+
+I'd like a future of writers who write with both data and metadata vs. *just* data. Will this help
+
+applied mathematics, data mining, and rhetoric engaged throughout this process
