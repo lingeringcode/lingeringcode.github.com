@@ -61,21 +61,22 @@ table {
 /*****************************************************************************/
 #home { }
 
-ul.hp {
-  list-style-type: none;
-  margin-bottom: 2em;
-  text-indent: -23%;
+#home ul,
+#home ol {
+    margin-left: 23%;
+	text-indent: -23%;
+	list-style-type: none;
+	margin-bottom: 2em;
+}
+#home ul li {
+    line-height: 1.75em;
 }
 
-  ul.hp li {
-    line-height: 1.75em;
-  }
-
-  ul.hp span {
+#home ul span {
     color: #aaa;
     font-family: Orienta;
     font-size: 80%;
-  }
+}
 
 /*****************************************************************************/
 /*

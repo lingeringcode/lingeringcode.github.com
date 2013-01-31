@@ -63,8 +63,8 @@ table {
 
 #home ul,
 #home ol {
-    margin-left: 23%;
-	text-indent: -23%;
+    margin-left: 10%;
+	text-indent: -10%;
 	list-style-type: none;
 	margin-bottom: 2em;
 }
