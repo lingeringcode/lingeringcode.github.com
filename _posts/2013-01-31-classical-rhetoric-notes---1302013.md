@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Classical Rhetoric Notes 1/30/2013"
+description: ""
+category: 
+tags: [coursework, rhetoric, classical rhetoric, notes]
+---
+{% include JB/setup %}
+
+# On Techne
+
+- Root for technology, and often refered to as Art
+- Plato loads it up w/ multiple meanings techne is based on episteme, but how does one get it; only one who obsesses over it, the art of rhetoric; he has a problem with those who say they teach rhetoric and have the means to do so
+- Competence in making something, specialized knowledge toward practical ends 
+- Greek used it without reflecting on it.
+- Cicero and Quintillian often reference Plato's dialogues about techne; it was the zeitgeist for rhetoric through the Roman period and most dialogues/texts have been lost, so they "knew" more than we did about it.
+- Art -- Theory -- Practice && Precepts are in each
+
+# Class Discussion
+
+Rhetorike -- The Art [ike] of the Orator [rhetor] to the Art of Rhetoric
+
+- The city-states in Greece and Italy are all autonomous during this period, but the Persian people all answer to one emporer.
+
+## Social Context: Athenians in contrast to Spartans
+- Spartan women are too present and wear hair too long!
+- Spartans don't say much; have a mystique and were popularized through
+- "Come back either carrying a shield or on it" --death in fighting is the highest honor
+- Sparta subjagated Messene people to support their army
+- Spartan young boy's rite of passage was to often kill a Messenian
+- Athenians could not understand the Spartan enslavement of Greek's by Greek's
+- Sparta has a long-term, idiosyncratic polos outside of Athens
+
+## Socrates' Apology (4th century)
+
+- Plato's Socrates and his bent on Truth is that we should operate with a desire to *seek* out truth
+- Eloquence in Socrates' text is actually the word "Deinos or legein which is dinosaur, large lizard, forceful, clever/crafty; not beautiful
+
+### Social Context
+- Juries were filled with 1000s of people daily; take oaths to judge impartially and not interrupt trial, but it is socially acceptable to do so; this lottery of people included thousands of people from a multifarious set of poleis(sp?), so it was impossible to "stack the deck"; also, the people were given a days pay to serve as a juror.
+- Trials lasted one day and speeches were timed by water-clocks
+- Citizens were always in contest with each other; Greeks as a cohesive people needed to be arduously reminded of this history and relations; it had to be "activated," due to a person's social interest in the prosperity of one's own polos; Greek's had different dialects and resonate with different histories, paths to places/locations/battles; An Attic dialect is of Athens and Doric speakers, so Athens and Sparta both spoke those but were always at war with each other.
+
+
