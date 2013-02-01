@@ -41,4 +41,7 @@ Rhetorike -- The Art [ike] of the Orator [rhetor] to the Art of Rhetoric
 - Trials lasted one day and speeches were timed by water-clocks
 - Citizens were always in contest with each other; Greeks as a cohesive people needed to be arduously reminded of this history and relations; it had to be "activated," due to a person's social interest in the prosperity of one's own polos; Greek's had different dialects and resonate with different histories, paths to places/locations/battles; An Attic dialect is of Athens and Doric speakers, so Athens and Sparta both spoke those but were always at war with each other.
 
-
+## Odysseus's Speech to Achilles
+- Achilles has been so strongly shamed and injustly so in public by the slight of Agemenon (sp?). This is a very strong core value of the manhood and honor code, so it may be read as almost just fate, or stasis
+- The only thing that brings him out is the death of his closest friend, Patricklus (sp?), where now the fate of this stasis is unloosed and he battles Hector.
+- Then, Achilles shames Hector's body by dragging it around--probably the most dishonorable act possible
