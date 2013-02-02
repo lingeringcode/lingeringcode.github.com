@@ -10,7 +10,7 @@
 
 * {
   margin: 0;
-  padding: 0;
+  padding: 2;
 }
 
 html, body {
@@ -19,7 +19,8 @@ html, body {
 
 body {
   background-color: white;
-  background-image: url('http://blog.clindgrencv.com/assets/themes/tom/images/tweeterBckgrndv3.png');
+  background-image: url('http://blog.clindgrencv.com/assets/img/tweeterBckgrndv3.png');
+  background-repeat:repeat;
   font: 13.34px Orienta, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -90,6 +91,7 @@ table {
   width: 40em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  background: white;
 }
 
 .title {
