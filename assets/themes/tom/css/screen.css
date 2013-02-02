@@ -90,6 +90,7 @@ table {
   text-align: justify;
   width: 40em;
   margin: 3em auto 2em auto;
+  padding: 2em;
   line-height: 1.5em;
   background: white;
 }

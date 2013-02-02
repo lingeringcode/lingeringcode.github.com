@@ -19,7 +19,7 @@ html, body {
 
 body {
   background-color: white;
-  background-image: url('http://blog.clindgrencv.com/assets/img/tweeterBckgrndv3.png');
+  background-image: url('http://blog.clindgrencv.com/assets/img/10PRINT-bck.jpg');
   background-repeat:repeat;
   font: 13.34px Orienta, clean, sans-serif;
   *font-size: small;
