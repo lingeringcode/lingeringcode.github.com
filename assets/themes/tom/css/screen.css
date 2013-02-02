@@ -19,7 +19,9 @@ html, body {
 
 body {
   background-color: white;
-  background-image: url('http://blog.clindgrencv.com/assets/themes/tom/images/tweeterBckgrndv3.png');
+  background-image: url('http://blog.clindgrencv.com/assets/img/tweeterBckgrndv3.png');
+  background-repeat:repeat;
+  opacity:0.7;
   font: 13.34px Orienta, clean, sans-serif;
   *font-size: small;
   text-align: center;
