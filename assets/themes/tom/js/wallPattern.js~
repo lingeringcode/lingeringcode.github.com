@@ -1,6 +1,3 @@
-document.addEventListener('DOMContentLoaded',domloaded,false);
-function domloaded(){
-
 var wallPattern = {
   
   // Settings
@@ -91,4 +88,3 @@ var wallPattern = {
 }
     
 wallPattern.init();
-}
