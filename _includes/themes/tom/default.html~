@@ -16,7 +16,6 @@
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
-  <canvas id='canvas'></canvas>
   <div class="site">
     <div class="title">
       <a href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -51,8 +50,7 @@
     </div>
   </div>
   <a href="http://clindgrencv.com/about.html"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://clindgrencv.com/media/img/back-fold.png" alt="Back to Main Site" /></a>
-<!-- javascript canvas -->
-	<script type="text/javascript" href="{{ ASSET_PATH }}/js/wallPattern.js"></script>
+
   {% include JB/analytics %}
 </body>
 </html>
