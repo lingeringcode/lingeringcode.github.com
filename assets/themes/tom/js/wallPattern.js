@@ -89,6 +89,5 @@ var wallPattern = {
     return array;
   }
 }
-    
-wallPattern.init();
 }
+wallPattern.init();
