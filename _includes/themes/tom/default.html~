@@ -11,14 +11,13 @@
 
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/screen.css" type="text/css" media="screen, projection" />
-	<!-- javascript canvas -->
-	<script type="text/javascript" href="{{ ASSET_PATH }}/js/wallPattern.js"></script>
+
    <!-- Typekit -->
    <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
-  <canvas id='canvas'></canvas>
+
   <div class="site">
     <div class="title">
       <a href="{{ HOME_PATH }}">{{ site.title }}</a>
