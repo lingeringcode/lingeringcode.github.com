@@ -10,4 +10,4 @@ tags: [html5, resources, markup]
 # HTML5 Sectioning Flowchart
 <a href="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" target="_blank">by HTML5doctor.com</a>
 
-![Alt HTML5 sectioning flowchart by html5doctor.com](/assets/img/h5d-sectioning-flowchart.png)
+<img src="/assets/img/h5d-sectioning-flowchart.png" alt="HTML5 sectioning flowchart by html5doctor.com" width="350px" />
