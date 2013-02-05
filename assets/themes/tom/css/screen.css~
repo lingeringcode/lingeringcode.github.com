@@ -86,9 +86,9 @@ table {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
-  text-align: justify;
-  width: 50em;
+  font-size: 100%;
+  text-align: left;
+  width: 65%;
   margin: 3em auto 2em auto;
   padding: 2em;
   line-height: 1.5em;

@@ -88,10 +88,10 @@ table {
 .site {
   font-size: 100%;
   text-align: left;
-  width: 70%;
+  width: 65%;
   margin: 3em auto 2em auto;
-  padding: 2em;
-  line-height: 1.5em;
+  padding: 2.5em;
+  line-height: 1em;
   background: white;
 }
 
