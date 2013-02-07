@@ -32,7 +32,7 @@ p { margin: 1em 0; }
 a { color: #00a; }
 a:hover { color: black; }
 a:visited { color: #a0a; }
-a .title { color: black; }
+a .blogTitle { color: black; }
 table { font-size: inherit; font: 100%; }
 blockquote { margin-left: 10%; }
 
@@ -83,7 +83,7 @@ blockquote { margin-left: 10%; }
 }
 
   .site .title a {
-    color: #a00;
+    color: #000;
     text-decoration: none;
   }
 
