@@ -8,9 +8,7 @@ tags: [coursework, classical tradition, classical rhetoric, Gorgias, Socrates, C
 {% include JB/setup %}
 
 *agon* == competition; {
-
 > consensus isn't valued, but competition. It is central to Greco-Roman culture. Games are judged. Always a winner and a loser.
-
 }
 
 Graff talks about Cleon's "shadowyness." We only know about him through other texts, and we get caricatures of him through other playwrights, who is very brash and bullyishness. He was a general who won some major battles in the Peleponesian (sp?) war. He was also responsible for taking Spartan shields and hanging them in a gallery-like fashion.
@@ -47,3 +45,36 @@ Pericles is chosen to speech, due to his prominence already. Could be seen as a 
 
 The top 200 rich citizens of athens pay an annual liturgy, responsible for 1) outfit the triream(sp?) ships and 2) paying for chorus/festival, so either war or art!
 > People would often take others to court to prove their neighbor was more wealthy ([*Antidosis*](http://en.wikipedia.org/wiki/Antidosis) Isocrates' account of his own experience with this issue); if they lost, they pay a penalty, plus their liturgy.
+
+## Cultural Context
+
+Exclusionary art/practice
+Citizenship highly restricted in all poleis
+Formal ed limited/limited access
+
+Rhetoric, from its origins, is related to tdemocratic or an ideology of anti-tyranny -- A Thesis to Test!
+
+## Discussion of Plato's Gorgias
+
+Gorgias came to Athen in 427 BCE to ask for help for his country; he was a foreigner, one account tells of his novel manner of speaking that stunned the Athenians.
+
+We can't tell when this event (Gorgias-Socrates) happened.
+
+Gorgias is set in the martketplace
+dialogue in 3 parts, 4 chief characters
+
+1. socrates-Gorgias
+2. Socrates-Polus
+3. Socrates-Callicles
+
+Socrates does not want an epideictic display; he wants to discuss! An interactive dialectic.
+
+Dialogue is about rhetoric and about *eudaimonia* (good life, requiring justice, virtue, care of the soul)
+
+techne (art) via empirical/experience vs. tuche (chance) -- Polus
+
+Passage 449a -; p. 28: When Socrates asks Gorgias what his art is, Gorgias responds it is rhetoric; possibly the first occurrence of the term: *Rhetorike* the art, or techne, of rhetoric.
+
+Socrates has issues with the idea that this skill is teachable, not with the idea that it is a possible skill for an individual.
+
+Socrates desires to deliberate on the ethical manner of boasting that its a skill that is teachable. (So is this deliberative or forensic rhetoric by Socrates?)
