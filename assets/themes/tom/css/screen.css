@@ -26,7 +26,6 @@ body {
 
 h4, h5, h6 { font-size: 100%; }
 h1 { font-size: 140%; margin-bottom: 1em; }
-h1 .default { font-size: 140%; margin-bottom: 1em; margin-left: 1em; }
 h2 { font-size: 120%; margin-bottom: 0.5em; }
 h3 { font-size: 110%; margin-bottom: 0.5em; }
 p { margin: 1em 0; }
@@ -42,6 +41,12 @@ blockquote { margin-left: 10%; }
 /*
 /*****************************************************************************/
 #home { }
+
+#home h1 { 
+  font-size: 140%;
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
 
 #home ul,
 #home ol {

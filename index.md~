@@ -6,7 +6,7 @@ tagline: ../people|things|software|code/
 {% include JB/setup %}
 
 <div id="home">
-  <h1 id="default">blog posts</h1>
+  <h1 class="default">blog posts</h1>
   <ul>
     {% for post in site.posts limit: 15 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
