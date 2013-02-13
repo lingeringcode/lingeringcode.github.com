@@ -75,7 +75,7 @@ blockquote { margin-left: 10%; }
 
 .title {
   background-color: #000;
-  color: #000;
+  color: #fa0;
   font-weight: bold;
   margin-bottom: 1em;
   font-size: 150%;
