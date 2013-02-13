@@ -19,8 +19,6 @@ html, body {
 
 body {
   background-color: white;
-  /*background-image: url('http://blog.clindgrencv.com/assets/img/10PRINT-bck.jpg');
-  background-repeat:repeat;*/
   font: 13.34px Orienta, clean, sans-serif;
   *font-size: small;
   text-align: center;
@@ -76,10 +74,12 @@ blockquote { margin-left: 10%; }
 }
 
 .title {
-  color: #a00;
+  background-color: #000;
+  color: #000;
   font-weight: bold;
-  margin-bottom: 2em;
-  font-size: 110%;
+  margin-bottom: 1em;
+  font-size: 150%;
+  padding: 2em 0.5em;
 }
 
   .site .title a {
