@@ -24,8 +24,8 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; }
-h1 { margin-bottom: 1em; }
+h2, h3, h4, h5, h6 { font-size: 100%; }
+h1 { font-size: 140%; margin-bottom: 1em; }
 p { margin: 1em 0; }
 a { color: #00a; }
 a:hover { color: black; }
@@ -83,7 +83,7 @@ blockquote { margin-left: 10%; }
 }
 
   .site .title a {
-    color: #000;
+    color: #fa0;
     text-decoration: none;
   }
 
