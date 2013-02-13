@@ -79,6 +79,7 @@ blockquote { margin-left: 10%; }
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+  font-size: 110%;
 }
 
   .site .title a {
