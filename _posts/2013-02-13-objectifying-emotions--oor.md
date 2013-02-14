@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Objectifying Emotions & OOR"
+title: "Objectifying Emotions and OOR"
 description: ""
 category: 
 tags: [OOR, rhetoric, emotional literacy, emotions]
