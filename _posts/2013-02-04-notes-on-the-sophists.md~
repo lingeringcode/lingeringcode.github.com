@@ -47,9 +47,9 @@ From Pernot's survey, I was particularly drawn to the passage on one of the four
 4. The *Funeral Oration*
 
 Pernot highlights how Gorgias treats these texts by emphasizing the forcefulness of "opinion, emotion, illulsion, and the decisive moment" -- all means of persuasion, (which are revived in *The New Rhetoric* along with the audiences role, of course) (p. 16-17). In particular, Pernot paraphrases a passage from the *Praise of Helen* that characterizes this force:
-> 
-> Language exerts a violent force on the soul, comparable to the action of drugs on the body and to the arts of sorcery and magic; it arouses or suppresses opinions and emotions; and it takes many forms, including poetry, incantations, speeches written "artfully" (the word *tekhne* is used at 13) for delivery in debates, and philosophers' controversies (p. 17).
-> 
+
+<blockquote>Language exerts a violent force on the soul, comparable to the action of drugs on the body and to the arts of sorcery and magic; it arouses or suppresses opinions and emotions; and it takes many forms, including poetry, incantations, speeches written "artfully" (the word *tekhne* is used at 13) for delivery in debates, and philosophers' controversies (p. 17).
+</blockquote>
 
 Gorgias' preserved works embody these principles, as he is well known for working in both theory and practice as a prominent, perhaps, the prominent, pedagogue of the time.
 
