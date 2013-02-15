@@ -24,7 +24,7 @@ Socrates's response to this is at 453a: [add quote]
 
 Socrates confronts G on what justice is. G says rhetoric has great power, and Socrates does not deny this, but presses him on what justice is in relation to rhetoric and its teaching. You say you can persuade in decision-making, but do you teach justice, Gorgias?
 
-Socrates's (and Plato's) charge: Rhetoricians are manipulators of the doxa, or essentially replace one doxa for another, moving people to a new, perhaps, untested belief. This practice is to harm the soul. Socrates eventually charges Gorgias as *alogos*, which is that Gorgias knows how, but does not know why it works--an epistemological critique.
+Socrates's (and Plato's) charge: Rhetoricians are manipulators of the doxa, or essentially replace one doxa for another, moving people to a new, perhaps, untested belief. This practice is to harm the soul. Socrates eventually charges Gorgias as *alogos*, which is that Gorgias knows how, but does not know why it works--an epistemological critique. Socrates' critique is also an ethical critique in that the art of rhetoric is for the good of the psyche, the soul, so to know the good is to practice the good.
 
 ## Episteme and Persuasion
 *Episteme* is about testing truths, connected to teaching. Episteme is only coming to know truth, which can also be knowing something as being false.
@@ -34,6 +34,14 @@ Persuasion is about coming to a held belief. Its consistency and compatibilty is
 *Peitho* = persuasion, also venerated as a god, to be in a state of belief;
 
 *Pistis* (proof, things worthy of belief)
+
+## Rhetorike and Tekhne
+S's def of rhetoric at 463a-f
+S on rhetoric's status as "tekhne (465a): it cannot give an account
+Polus def at 448c
+S at 462b-c denies rhetoric is an art
+S's def of tekhne at 501a: it examines the nature of him of whom it takes care and the cause of the things that it does, and it has a reasoned account to give of each of these things [as medicine does]. Other activities are shams, aim for and are satisfied merely with what "usually works"
+Late in the dialogue: 503a f., 504d-e: The admission or suggestion of an "ideal rhetoric" or "artful & good rhetor"
 
 ## Other terms
 *ochlos* (a mob)
