@@ -3,11 +3,11 @@ layout: post
 title: "Notes on D. Walls' dissertation, The 'Human' Network"
 description: ""
 category: 
-tags: []
+tags: [notes, literacy, access, methodologies, methods, ANT, cultural rhetorics]
 ---
 {% include JB/setup %}
 
-<blockquote>I update the definition of access as enacted to ask two important questions: what does access mean today and can we locate access as it happens?</blockquote> --D. Walls, 2011, p. ii
+(p. ii) "I update the definition of access as enacted to ask two important questions: <b>what does access mean today and can we locate access as it happens?</b>"
 
 What follows are some rough notes on Douglas Walls' dissertation that re-theorizes *access*.
 
