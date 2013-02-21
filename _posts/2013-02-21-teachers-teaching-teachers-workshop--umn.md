@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Teachers Teaching Teachers Workshop  UMN"
+description: ""
+category: 
+tags: [umn, workshops, pedagogy]
+---
+{% include JB/setup %}
+
+# SLO-focused Assessment
+by Kimberly Thomas-Pollei
+
+###Questions
+What are SLOs (student learning outcomes)? And how are we ensuring these are being taught at he university? How can teaching observations/peer feedback support constructive alignment of SLOs in our teaching? How do we leverage our teaching practices to make the "surface-learner" become more engaged like the highly-engaged learner?
+
+[UMN's SLO Page](http://www.slo.umn.edu/ "SLOs at UMN")
+
+###SLO-focused teaching
+1. Must have a clear conception of underlying assumptions of teaching practides
+2. Transformative reflections
+3. Receive collab peer feedback
+4. Set goals and/or implement feedback; (*This is the place where I feel like I haven't experienced much help.*)
+
+Wondering if she has looked at a particular writing program who utilizes these methods already.
+
+Like the idea about teaching portfolio help along the way. This process shows/conveys pro-active approach to pedagogy.
+
+Seems like this worksheet inhibits, in some ways, and makes it difficult to process what might happen in a day. I like the idea of thinking about SLOs while providing feedback, but this is hard to put into buckets as one is observing.
+
+# A Model Approach to Business Writing
+by [Timothy Oleksiak](http://timothyoleksiak.com/) & [Joe Bartolotta](http://jbartolotta.com/)
+
+Systemize approach to writing as craft
+Students in Bartolotta and Okleksiak's classes worked with local businesses; these were existing relationships
+
+One of the texts used: Searls, which is a model that contrasts their model:
+> Searls presents a limited rhetorical approach
+> Searls is a genre-based approach
+> Searls works best in a large-scale, business/corporation setting
+> Searls admittingly is "short on theory, long practical applications" (xi).
+> Searl, according to Oleksiak, is "too How-to"
+
+Genre is not enough
+
+Disrupt the idea that writing is a part of the work/labor process; in fact, it's central to ideas and construction of relationships; looking at writer as craft, not ephemeral; this is work, it moves bodies, it has an affect/effect in any situation.
+
+Students were struggling with Searls text; too decontextualized and too corporatized vs the local small businesses. (Makes me wonder how many business writing texts approach local businesses, which is supposedly a value in our country.)
+
+### Craft Model in the Classroom (first 4 weeks)
+Students also read "Why Women Can't Have it All" (Slaughter 2012)
+
+How does writing operate as labor in the situations Slaughter articulates?
+
+Pre-Writing Activity: Policy change is done in the mundane workplace activity; makes me think about Spinuzzi's new book, *Topsight* (2013). 1) Find a policy in business or that is common to businesses as it is written; 2) Describe the work of this policy; 3) What 'mundane' battles might we wage to craft change?; 4) Project Distribution Activity.
+
+Return to a discussion of the value of writing in business context
+
+Reading Anyon (2011) with attention to the role and value of labor in the context of business writing
+
+Reading Albini to look for where writing happens and how value can be tracked and shown as part of the worklow process (paraphrased slide here)
+
