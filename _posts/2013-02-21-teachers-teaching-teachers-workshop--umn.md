@@ -40,7 +40,8 @@ One of the texts used: Searls, which is a model that contrasts their model:
 - Searls works best in a large-scale, business/corporation setting
 - Searls admittingly is "short on theory, long practical applications" (xi).
 - Searl, according to Oleksiak, is "too How-to" for this situated, small-business approach to business writing.
-<br />
+
+This last issue created some issues for students in the process of working through their project. //Thinking that the Searls text, despite these flaws, still provides a nice contrast to the other texts that are discussed; a sort of, "do you see how writing really operates differently here?" for the students and teachers to reflect on.
 
 ### problems w/ Searls' text
 Students were struggling with Searls text; Genre is not enough; it is too decontextualized and too corporatized in contrast with the local small businesses. //Makes me wonder how many business writing texts approach a model of local, situated business writing practices.
