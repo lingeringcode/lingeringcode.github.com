@@ -3,7 +3,7 @@ layout: post
 title: "Notes on D. Walls' dissertation, The 'Human' Network"
 description: ""
 category: 
-tags: [notes, literacy, access, methodologies, methods, ANT, cultural rhetorics]
+tags: [notes, literacy, access, methodologies, methods, ANT, cultural rhetorics, rhetorical theory]
 ---
 {% include JB/setup %}
 
