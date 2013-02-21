@@ -30,21 +30,22 @@ Seems like this worksheet inhibits, in some ways, and makes it difficult to proc
 # A Model Approach to Business Writing
 by [Timothy Oleksiak](http://timothyoleksiak.com/) & [Joe Bartolotta](http://jbartolotta.com/)
 
-Systemize approach to writing as craft
-Students in Bartolotta and Okleksiak's classes worked with local businesses; these were existing relationships
+The two desire to systemize an approach to writing as craft
+
+Students in Bartolotta and Okleksiak's classes worked with local businesses, which were established via the students' existing relationships. //Did any students have issues with this process? If so, how was it handled?
 
 One of the texts used: Searls, which is a model that contrasts their model:
-> Searls presents a limited rhetorical approach
-> Searls is a genre-based approach
-> Searls works best in a large-scale, business/corporation setting
-> Searls admittingly is "short on theory, long practical applications" (xi).
-> Searl, according to Oleksiak, is "too How-to"
+- Searls presents a limited rhetorical approach
+- Searls is a genre-based approach
+- Searls works best in a large-scale, business/corporation setting
+- Searls admittingly is "short on theory, long practical applications" (xi).
+- Searl, according to Oleksiak, is "too How-to" for this situated, small-business approach to business writing.
 
-Genre is not enough
+### problems w/ Searls' text
+Students were struggling with Searls text; Genre is not enough; it is too decontextualized and too corporatized in contrast with the local small businesses. //Makes me wonder how many business writing texts approach a model of local, situated business writing practices.
 
+### some goals:
 Disrupt the idea that writing is a part of the work/labor process; in fact, it's central to ideas and construction of relationships; looking at writer as craft, not ephemeral; this is work, it moves bodies, it has an affect/effect in any situation.
-
-Students were struggling with Searls text; too decontextualized and too corporatized vs the local small businesses. (Makes me wonder how many business writing texts approach local businesses, which is supposedly a value in our country.)
 
 ### Craft Model in the Classroom (first 4 weeks)
 Students also read "Why Women Can't Have it All" (Slaughter 2012)
