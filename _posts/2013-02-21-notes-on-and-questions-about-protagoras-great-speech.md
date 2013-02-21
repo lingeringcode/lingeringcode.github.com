@@ -17,4 +17,6 @@ The question that instigates the "Great Speech" by Protagoras is asked by Socrat
 ### Setting
 Hippocrates wishes to become a student of Protagoras, but Socrates uses this moment to being a line of questioning, where Protagoras must defend his claims that he can teach the art of rhetoric, or art of good citizenship.
 
+### more to come...
+
 
