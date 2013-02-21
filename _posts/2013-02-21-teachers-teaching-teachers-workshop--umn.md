@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teachers Teaching Teachers Workshop  UMN"
+title: "'Teachers Teaching Teachers' Workshop at UMN-Writing Studies"
 description: ""
 category: 
 tags: [umn, workshops, pedagogy]
