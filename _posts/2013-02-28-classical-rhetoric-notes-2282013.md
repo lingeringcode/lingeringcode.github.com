@@ -26,6 +26,11 @@ Many, but not all, sophists could be said to champion nomos. The point is, their
 Protagoras's Great Speech, where he explicitly signals the fact that he will employ both modes of discoursing. 
 Gorgias Encomium "I want to bring reason to this debate"
 
+
+*Sophistike* (Sophist-art) vs. *Philosophia* (philosophy)
+
+[add some notes]
+
 Dissoi Logoi: a play on terms; for example, its play with lowercase 'g' and 'b' -- good and bad and to whom and in what circumstance.
 
 Gorgias' "On Not Being" Is it a denial of essence? existence? How might Plato respond might that's jst a play with words, nonsense, its difficult to know them. MoreOrLess, it seems to address pre-socratic thought by playing on the Greek verb *to-be*. 

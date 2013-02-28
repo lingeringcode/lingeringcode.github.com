@@ -42,6 +42,12 @@ blockquote { margin-left: 10%; }
 /*****************************************************************************/
 #home { }
 
+#home h1 { 
+  font-size: 140%;
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+
 #home ul,
 #home ol {
     margin-left: 10%;
@@ -73,12 +79,6 @@ blockquote { margin-left: 10%; }
   padding: 2.5em;
   line-height: 1.5em;
   background: white;
-}
-
-.site h1 { 
-  font-size: 140%;
-  margin-bottom: 1em;
-  margin-left: 1em;
 }
 
 .title {
