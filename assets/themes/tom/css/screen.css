@@ -79,6 +79,7 @@ blockquote { margin-left: 10%; }
   padding: 2.5em;
   line-height: 1.5em;
   background: white;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .title {
@@ -88,7 +89,7 @@ blockquote { margin-left: 10%; }
   margin-bottom: 1em;
   font-size: 150%;
   padding: 2em 0.5em;
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 10px 10px 10px 10px;
 }
 
   .site .title a {
