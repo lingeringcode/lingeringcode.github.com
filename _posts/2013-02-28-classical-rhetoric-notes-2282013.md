@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Classical Rhetoric Notes 2-28-2013"
+description: ""
+category: 
+tags: [classical rhetoric, rhetoric, sophists, Plato, Gorgias]
+---
+{% include JB/setup %}
+
+## What are some of the characteristics of sophistic rhetoric?
+
+Schiappa claims that any characteristics that sophists have, are fragmented, but *relativism* is the binding force.
+
+Binaries associated with Sophists
+
+*Phusis* (Nature) vs. *Nomos* (law, custom)
+
+*Phusis* was the primary subject of speculation for early (pre-Socratic) Greek philosophy. In the time of the "Greek Enlightenment" (later 5th century on), attention was turned to human laws, customs, mores--hence, ethical and political philosophy, as well as rhetorical theory.
+
+Many, but not all, sophists could be said to champion nomos. The point is, their collective efforts (and that of others, including Socrates & Plato) opened the door to reflection on this distinction and made possible critique of human customs and institutions.
+
+*nomos*-as-custom could be connected to the idea of *doxa* (opinion) or *endoxa* (a settled set of beliefs common in a community). It's a great time of thinking outside of cultures and customs.
+
+*Muthos* (myth, mythic speech) vs. *Logos* (reason, reasoned speech)
+
+Protagoras's Great Speech, where he explicitly signals the fact that he will employ both modes of discoursing. 
+Gorgias Encomium "I want to bring reason to this debate"
+
+Dissoi Logoi: a play on terms; for example, its play with lowercase 'g' and 'b' -- good and bad and to whom and in what circumstance.
+
+Gorgias' "On Not Being" Is it a denial of essence? existence? How might Plato respond might that's jst a play with words, nonsense, its difficult to know them. MoreOrLess, it seems to address pre-socratic thought by playing on the Greek verb *to-be*. 
+
+The first to right on kairos was Gorgias. Then, Dionysios picked up on it and wrote that whatever Gorgias has said on the subject, it is of little to no use.
+
+*metron* measure of all things; could be interpreted in many ways; an individual's subjective position becomes the reality, which Protagoras has been noted as being an extreme relativist.
+
+One cannot say that *all* sophists were defenders of democracy, since Protagoras was sympathetic. For example, Antiphon, Theramenes, and Critias (Plato's uncle, who was a Sparta sympathisizer and helped install an oligarchy to purge)
+
+Is there any good coming out of the construction of sophists? Graff says it's "a (favorable) alternative to the PLatonic & Aristotleian systems; roduce pleasure and belief through speech; suggest what is possible versus the final demonstration of certain conclusions." Sophistic rhetoric is emancipatory, participatory, and subversive. It cannot be reduced. It is always debatable.
+
+Graff has repeatedly noted how sophists brought to rhetoric its "shoes" but not the exposition on how to make the "shoes." Only after their day did others respond to them and make a theory of rhetoric. 
+
+# PHAEDRUS
+
+Some context: At the time of the *Phaedrus*, Plato's academy is free; Isocrates and others charge for their instruction. Plato raises isses about their claims and the commodification of thought. Also accused of being craftsmen only, selling their craft, whereas Plato et al believe such transactional-work runs counter to effective, just teaching--leisure is a necessary component for truly
+
+I'm wondering if there's some connections to be made between opensource and proprietary movements; a line of questioning that are you paying for certain operational logics and modes of being?"
