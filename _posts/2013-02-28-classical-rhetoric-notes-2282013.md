@@ -66,3 +66,5 @@ Are the Gorgias and Phaedrus consistent treatments of rhetoric? E. Black takes t
 
 Lysias was a logographer, speech writer, resident alien, famous for characrerization (*ethopoieia* *ethos*), making the texts conform to the person who will deliver it. Lysias was known as the technical speech maker of Athenians.
 - Is Plato's Lysias actually representative of Lysias? Or was the character simply representative of such a group of speech makers?
+
+*Psuchagogia* "Isn't rhetoric that art of SOUL leading?" We, rhetors and rhetoricians need to give souls healthy things, not sweets!
