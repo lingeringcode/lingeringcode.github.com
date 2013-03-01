@@ -67,4 +67,24 @@ Are the Gorgias and Phaedrus consistent treatments of rhetoric? E. Black takes t
 Lysias was a logographer, speech writer, resident alien, famous for characrerization (*ethopoieia* *ethos*), making the texts conform to the person who will deliver it. Lysias was known as the technical speech maker of Athenians.
 - Is Plato's Lysias actually representative of Lysias? Or was the character simply representative of such a group of speech makers?
 
+*empsuchos* ---> logos (speech is a product of breadth)
+*apsuchos* ----> (writing/text is death, due it not having a breath)
+
 *Psuchagogia* "Isn't rhetoric that art of SOUL leading?" We, rhetors and rhetoricians need to give souls healthy things, not sweets!
+- psuche (connects to spirit and breath--life force) in rleation to Rhetoric, Love; 
+- psuche in relation to Love: Myth of Charioteer: Divided soul (parts of the soul, the 3 horses (reminded of Freud's id,ego,superego)
+- psuche in relation to Rhetoric; *psuchagogia*: Rhetoric is Soul-Leading; Collection/Division ("Dialectical Analysis"); discourse in the service of enobling of the soul
+
+#### What is dialectic?
+
+Dialectical Method & A (Genuine) Techne of Rhetoric (?)
+(263b)
+1. Division--what kind of subject
+2. Understand subject
+3. Organic whole of speech (taxis, proportion): organic Composition
+4. Parts of the speech (conventional)
+5. *Eikos* argument (see also 272e); probablities
+6. Diction
+
+#### Moving from Theory to Practice (271d-272a)
+Rhetoric requires a precursor to rhetoric in the dialectic (more to come next week)
