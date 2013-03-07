@@ -64,8 +64,8 @@ Structure:
 Are the Gorgias and Phaedrus consistent treatments of rhetoric? E. Black takes this up.
 
 
-Lysias was a logographer, speech writer, resident alien, famous for characrerization (*ethopoieia* *ethos*), making the texts conform to the person who will deliver it. Lysias was known as the technical speech maker of Athenians.
-- Is Plato's Lysias actually representative of Lysias? Or was the character simply representative of such a group of speech makers?
+Lysias was a logographer, speech writer, resident alien, *famous* for characrerization (*ethopoieia* *ethos*), making the texts conform to the person who will deliver it. Lysias was known as the technical speech maker of Athenians.
+- Is Plato's Lysias actually representative of Lysias? Or was the character simply representative of such a group of speech makers? Some scholars suggest Lysias represents *Isocrates* (see the final pages of the Phaedrus, the dialogue between Socrates and Phaedrus (278b-279c). Does Plato truly respect Isocrates? Could be read in a multitude of ways. Plato wrote The Phaedrus (360-370s) after Isocrates success as a writer of speeches, so whn the text shows Socrates discussing highly of Isocrates and his craft, it indicates an ironic bent.
 
 *empsuchos* ---> logos (speech is a product of breadth)
 *apsuchos* ----> (writing/text is death, due it not having a breath)
