@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rough notes on "BIG DATA and Tech Comm    Session A.3"
+title: "Rough notes on BIG DATA and Tech Comm-Session A.3"
 description: ""
 category: 
 tags: [attwcon, attw, technical communication, big data]
