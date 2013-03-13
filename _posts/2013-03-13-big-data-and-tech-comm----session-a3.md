@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Rough notes on BIG DATA and Tech Comm-Session A.3"
+title: "Rough notes on BIG DATA and Tech Comm - Session A.3"
 description: ""
 category: 
 tags: [attwcon, attw, technical communication, big data]
 ---
-{% include JB/setup
+{% include JB/setup %}
 # BIG DATA & Tech Comm
 Brenton Faber
 Our field needs to learn database structures; lots of imperatives; quat literacies
