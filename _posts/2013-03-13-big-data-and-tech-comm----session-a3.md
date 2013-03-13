@@ -24,7 +24,7 @@ He suggests to:
 
 Gives example of rural hospital in MYSQL, goes through basic identification of types of info in such databases
 
-Helping to create metrics to help understand data and present information to other people. This seems a lot like Sociology. How is different in scope? A focus on the rhetorical messages? Not getting a clear sense from the presentation though on how to work with that mediation process, nor the issues with the multiple perspectives. 
+Helping to create metrics to help understand data and present information to other people. This seems a lot like Sociology. How is it different in scope? A focus on the rhetorical messages? <b>Not getting a clear sense from the presentation though on how to work with that mediation process, nor the issues with the multiple perspectives, cultural diferences, etc.</b>
 
 Data selection, reduction, and methods.
 
