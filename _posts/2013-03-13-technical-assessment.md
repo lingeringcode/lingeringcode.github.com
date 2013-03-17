@@ -1,0 +1,48 @@
+---
+layout: post
+title: "ATTW-Rough notes on Technical Assessment panel"
+description: ""
+category: 
+tags: [technical assessment, technical writing, health, risk]
+---
+{% include JB/setup %}
+
+# Technical Assessment
+
+Defines with Heideggerian approach
+
+Teston & Graham's study examines Avastin
+It passed initial BC clinical trials, but failed the Confirmatory trials that indicate its benefits for breast cancer; produced public outcry; FDA conducted a public hearing (2-day even in 2011)
+
+Graham: "evidence-based medicine is evidence-based policy"
+Talks about evolution of FDA; the practices become boiled down to "adequate and well-controlled investigations" randomized testing, test claims against empirical evidence; it's a stat-based discipline
+
+Teston use "charter documents" to make decisions, which include "quantifiable endpoints"
+1. Overall Survival
+2. Disease-free survival
+3. Objective Response rate
+4. Complete Response
+5. Progression-free survival
+6. Symptom endpoints; here's the focus of the presentation.
+
+Endpoint modeling becomes a key point in the process to deliberate on assessing the claims.
+
+Issues that arise w/ data gathering
+1. non-compliance, patient agency
+2. reliability of the evidential source, i.e. validity of human responses over long period of time)
+3. standards for PRO data collection; how many interviews, how many patients?
+4. standardization of assessment criteria
+5. discerning noise from data; is it asymptom of disease or symptom of drug toxicity?
+
+**Big question to end on** How do we resist quantification with endpoint models?
+
+##Singapore's quarantine practices
+
+Examine domestic media coverage of Singapore's quarantine practices in SARS
+
+Uses Vasek's 3-generation of human rights policies/protocols, which includes the state's responsibility to manage the human right to a healthy environment.
+
+Used LexisNexis search and thematic coding
+120 articles, 135 pgs of text to code
+
+Lots of appeals to nationalism, community well-being, producing social stigmas, while gov quarantine practices were harsh and framed anyone who did not follow it were conducting criminal activity.
