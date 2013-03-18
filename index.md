@@ -8,7 +8,7 @@ tagline: ../people|things|software|code/
 <div id="home">
   <h1>blog posts</h1>
   <ul>
-    {% for post in site.posts limit: 15 %}
+    {% for post in site.posts limit: 35 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
