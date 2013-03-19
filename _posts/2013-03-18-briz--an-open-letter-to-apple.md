@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nick Briz's :: 'Open Letter to Apple'"
+title: "Nick Briz :: 'An Open Letter to Apple'"
 description: ""
 category: 
 tags: [glitch, artware, apple computers, backwards compatibility, upgrade culture]
