@@ -1,0 +1,113 @@
+---
+layout: post
+title: "Writing Hand  C.Haas  Literacy and Rhetorical Studies"
+description: ""
+category: 
+tags: [literacy, rhetoric, technology, hand]
+---
+{% include JB/setup %}
+
+Literacy and Rhetorical Studies minor?! I have to look into this.
+# David Beard (Associate Professor, Writing Studies, U of MN-Duluth) – Utopian Memories: The Print and Material Rhetoric of Steampunk 
+
+Abstract: Resistance to the position of “consumer” in the context of global capitalism requires more than “protest” – it requires the construction of a counter-ideology. This paper explores the literary and material culture of the Steampunk movement – ‘zines, magazines, novels, short fiction, the performances of Abney Park, and "maker" immersion conventions like TeslaCon – as rhetorics that articulate such a counter-ideology, with an eye toward assessing the effectiveness of "utopian memories" for resistance to consumer culture. 
+
+## //NOTES//
+
+Alludes to the importance of social media in research; notes person interested in the construction of guns && steampunk; ahhh, notes how it helped him make connections to pitch and get his chp accepted, not so much his project
+
+Does steampunk partake in the Marxist "mystification?" 'how my cow became my hamburger?'
+
+Smuder's Steampunk Light Saber -- appeals to 2 markets of nerd
+cites Frantz (1998) material culture is an intepretation of the world
+Steampunk is a material, DIY culture; crafters, tinkerers
+The thing represents a narrative, constructs an ethos (my words)
+Must use materials that are "authentic" and available during the Vistorian period
+Yet, its also a process of forgetting, e.g., you have to forget that some of the mashup materials are pulled from other contexts, i.e. a "ray gun" made out of parts from a lamp -- a repurposing of remembering and forgetting.
+
+Steampunk is fuzzy, unstable with many genres; lots of alts
+genres have been constructed with both the texts but also the characters themselves
+
+Quote Nick Ottens' utopian vision of "fixing the past;" forgetting gender history and not grappling with what really happened; also forgets the politics of race and empire; the voices who DO address these issues, unfortunately do not wrestle
+
+**Questions/Comments**
+
+Is the language of remembering and forgetting problematic? How intentional is this process, which makes me wonder how these terms are being defined or remembered or forgotten? ---He answered this through his examples, but I still am not sure how these terms are being defined and utilized, nor do I understand how someone "concsiously forgets." He also used the word "transference," which is a pyschological, rather than a social structures perspective (as he seems to play on the Frankfurt school angle).
+
+# Betsy Brey (MA Student, English, U of MN-Duluth) – Digital Dialogism: Bakhtin, Videogames and Story
+
+Abstract: Critics have argued that story-based videogames fail to convey the experience of genuine narrative, but such arguments generally conflate important distinctions between plot, narrative, and story. Adapting Bakhtinian literary theory to the analysis of videogames' multi-sensory languages helps to disclose their story-making processes.
+
+## //NOTES//
+
+Talking about video games and dialogism
+Quotes Manovich's claim about competing things: databases and narratives (2001, p. 225) --- i wonder if she knows about his BIG DATA turn, seeking narratives from such large databases
+
+VG's are collections of dialogues and experiences, but where she getting this definition?
+
+Discusses how it doesn't run through the gammut of publication process, but there is a gammut in the neoliberal corp/business sphere --- **this is me talking here.**
+
+If people get stuck on a character that is not part of the larger narrative in a game, this is problematic (?) Ah, she is trying to apply literary theory to games, hence the Bahktin.
+
+**Some Terms**
+
+*Plot*: a seq of actions from a diegetic chars
+
+*Narrative*: the perspective from which diegetic participants experienced in plot
+
+*Text*: a single utterance of plot and narrative combined
+
+*Story*: the totality of a diegetic world, consisting of nearly infinite texts
+
+Quotes Bahktin, 1934-5, p.276 -- bring social life into the formal understanding of text; but is this RE-creating a dichotomy?
+
+**Questions/Comments**
+
+Suggests that we can't READ the processes, the code, but, yes, you can and people do in game studies, some of which say that it helps articulate the "reading" of the game. Perhaps she means that literary theory cannot be applied? I still disagree, just inheritance work needs to be and has been done. Thinking about Janet Murray's [Hamlet on the Holodeck](http://www.amazon.com/Hamlet-Holodeck-Future-Narrative-Cyberspace/dp/0262631873) and the Serious Game movement, which works against the rush of business-consumer-oriented game dev. Also, thinking about [Alex Myers' games](http://alexmyers.info/) that seek to disorient players and dirupt meaning-making; particularly his ["Writing Things We Can No Longer Read"](http://alexmyers.info/Writing-Things-We-Can-No-Longer-Read)
+
+# Christina Haas (Professor, Writing Studies, U of MN-Twin Cities) – Giving the Writing Hand Its Due: Beyond the Tyranny of the Visual
+
+Abstract: While writing is now commonly seen as a visual, spatial, and even aural human activity, less explored has been writing’s haptic and tactile dimensions. In my presentation, I will provide a brief “natural history” of the human hand – drawing from fields as diverse as evolutionary biology, physiology, psychology, linguistics, and cultural studies – to suggest how the hand’s tactile functions can, and should, be central in understanding the nature of writing. I will also outline a three-strand program of research (most of it in progress) that examines multiple manifestations of the Writing Hand.
+
+## //NOTES//
+
+What is writing? Culturally? Socially? Haptically? Physiologically? etc. etc. etc.?
+
+Less of an argument and more of a mosaic of theories to provide ways of seeing the instrumentality of the hand in writing
+
+Hands make us human
+- Aristotle... "Instruments for instruments"
+- Evolutionary biologists...
+
+In the dev of language; toole use and manufacturing gave rise to types of writing; Dunbar's "grooming monkeys"; ASL Harlane Lan, A. Kendon's continuum of signs; D. McNeil's of spontaneous gestures + language = one system
+
+### The Writing Hand
+
+Schmadt-Besserat's work; writing first origins in Meso as tokens, which gave rise to usign them to make markings to represent objects
+
+Writing and violence: scoring, cutting, tearing, ripping, drawing blood from things (thinking about McLuhan's WAGV); penmanship; QWERTY keyboard's damage to hands
+
+### Writing and Healing
+physical healing; rebuilding a shattered world through writing, brings example of brain injury victim who did so through writing his everyday practices
+
+### Signature & author-izing
+presence and absence in the signature
+Cultural paradox between the signature vs. seal; what should count? Westerners did not think the seal sufficient, while "Easterners" thought the signature focused too much upon the signular event and person
+Reagan's letter--"hand-written" announcing his alzheimers(sp?)
+Illegibility of signature
+
+the signature "gathers up" the issues and ambiguities of writing and the writing hand
+
+### Other topics
+Assymetry of handedness actualy plays into an evolutionary advantage with tool-making and using; writing is a unilateral skill, ie, using one hand; but the non-dom hand plays a part in the "scene-setting" operations in the writing process, the gathering of things around the writing process
+
+writing and reading extends beyond the tacitity and into the movement/kinesinthetic(sp?)
+
+metnions a prototype chair that enables people to learn how to read from the vibrations upon thier back!!!
+
+Social resistence to the dominance of sight with reading; octophone and opticon(sp?), turning sound into material.
+
+Hegemony of the visual reinforced production of images that are perpetually present that is flattened by simulataneity and speed and Haas suggests our bodies resist this via material anchors and locations of memory
+
+**Questions/Comments**
+I'm wondering about framing the hand as a technology. How does this complicate the dichotomy between the body and technology? We can't separate ourselves from our own hands, so to speak, so to articulate it as a thing enables us to reflect on how these (whether the hand, vdeo games, steampunk materials, etc.) are all corporeal events..

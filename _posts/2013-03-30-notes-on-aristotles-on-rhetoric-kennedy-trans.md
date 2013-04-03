@@ -33,4 +33,4 @@ Aristotle emphasized "truth, knowledge of subject, and logical argument" (p. 13)
 
 Passage 1.2.7 describes "rhetoric as a mixture" of method (dialiectic) and the practical arts -- an "architectonic subject of politics" (Kennedy, p. 16).
 
-(p. 18) "Aristotle, unlike Plato, was a formalist in the sense that he was interested in describing phenomena of the natural and social world on the basis of observation; he clearly became interested in rhetoric as a social phenomenon and potentially as a practical application of hi theories of logic, and he was capable of giving a detached, objective account of it as of other subjects and of describing this to students."
+(p. 18) "Aristotle, unlike Plato, was a formalist in the sense that he was interested in describing phenomena of the natural and social world on the basis of observation; he clearly became interested in rhetoric as a social phenomenon and potentially as a practical application of his theories of logic, and he was capable of giving a detached, objective account of it as of other subjects and of describing this to students."
