@@ -11,6 +11,6 @@ Here's a copy of my annotated bibliography on spatial rhetorics in antiquity. It
 
 Feel free to download and use as a tool for your own inquiry, as well as drum up a conversation here about this topic.
 
-![Alt cover page of annotated bibliography](/assets/img/ab-spatialRhet-cover.jpeg)
+[DOWNLOAD PDF](http://clindgrencv.com/media/pdf/writ5775-AB-spatialRhetorics-final.pdf)
 
-[DOWNLOAD PDF](.../assets/docs/writ5774-AB-spatialRhetorics-final.pdf)
+![Alt cover page of annotated bibliography](/assets/img/ab-spatialRhet-cover.jpeg)
