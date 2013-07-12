@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Isocrates' paideusis was neither sophistic, nor Socratic, but also both"
+title: "Chris Lindgren's Fall 2013 Schedule"
 description: ""
 category: 
 tags: [course work, gradschool, phding, umn]
