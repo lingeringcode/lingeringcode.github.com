@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chris Lindgren's Fall 2013 Schedule"
+title: "My Fall 2013 Schedule"
 description: ""
 category: 
 tags: [course work, gradschool, phding, umn]
