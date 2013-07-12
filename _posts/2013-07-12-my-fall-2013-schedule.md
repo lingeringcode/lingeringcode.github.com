@@ -6,9 +6,10 @@ category:
 tags: [coursework, umn, phding]
 ---
 {% include JB/setup %}
+
 # Chris Lindgren's Fall 2013 Schedule
 
-## MONDAY
+### MONDAY
 
 **Writ 8510 "Writing in the Cloud"**
 M 02:30 pm–05:00 pm LindH 216
@@ -18,22 +19,22 @@ Professor: John Logie
 M 05:30 pm–08:00 pm LindH 320
 Professor: Me!
 
-# TUESDAY
+### TUESDAY
 
 **Writ 8012 Applied Research Methods**
 T 02:30 pm–05:00 pm NCCE 229
 Professor: Christina Haas
 
-## WEDNESDAY
+### WEDNESDAY
 
 Workday!
 
-## THURSDAY
+### THURSDAY
 
 **Writ 8560 Situated Literacies**
 Th 02:30 pm–05:00 pm FOLH 32
 Professor: Christina Haas
 
-## FRIDAY
+### FRIDAY
 
 Workday!
