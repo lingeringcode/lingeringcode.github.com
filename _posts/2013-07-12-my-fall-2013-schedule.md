@@ -3,7 +3,7 @@ layout: post
 title: "My Fall 2013 Schedule"
 description: ""
 category: 
-tags: []
+tags: [coursework, umn, phding]
 ---
 {% include JB/setup %}
 # Chris Lindgren's Fall 2013 Schedule
